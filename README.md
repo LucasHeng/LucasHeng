@@ -5,13 +5,12 @@
 
  ### What I'm doing: 
  
-- 🔭 I’m currently working on WeConnect, an android app as a personal project 
-- 🌱 I’m currently learning Kotlin, Accessibility for Mobile Apps, Jira and Discrete Math! 
-- 👯 I’m looking to collaborate on Android apps and conference events 
-- 📫 How to reach me: sabiha.shaik121@gmail.com 
-- ⚡ Fun fact: I'm a Gold Microsoft Learn Student Ambassador. Love spreading knowledge and teaching others! I also believe accessibility should always be built in and not bolted in! 
+- 🔭 I’m interesting in Database and distribute system.
+- 🌱 I’m currently learning Web Backend! 
+- 👯 I’ve learned Mit-6.824,CMU-15445 and distribute-txn. 
+- 📫 I’m now learning tinykv.
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liuheng22&layout=compact&theme=dark)](https://github.com/Liuheng22)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liuheng22&count_private=true&layout=compact&theme=dark)](https://github.com/Liuheng22)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Liuheng22&count_private=true&layout=compact&theme=dark)](https://github.com/Liuheng22)
  

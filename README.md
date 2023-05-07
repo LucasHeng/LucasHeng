@@ -12,6 +12,6 @@
 - 👋 Welcome to discuss with me some about databases and distributed systems.
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liuheng22&count_private=true&layout=compact&theme=dark)](https://github.com/Liuheng22)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Liuheng22&count_private=true&layout=compact&theme=dark)](https://github.com/Liuheng22)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHeng&count_private=true&layout=compact&theme=dark)](https://github.com/LucasHeng)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHeng&count_private=true&layout=compact&theme=dark)](https://github.com/LucasHeng)
  
